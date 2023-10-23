@@ -40,6 +40,6 @@ body:
         Include any information arguing for implementing your suggestion.
       placeholder: |
         Examples:
-        - I think this would be a good notifier because ___
-        - I think this setting would help with ___
-        - Sending this data would be helpful because ___
+          - I think this would be a good notifier because ___
+          - I think this setting would help with ___
+          - Sending this data would be helpful because ___
